@@ -14,7 +14,7 @@ def edit_comment(user, comment, new_data):
 		message = "You are not authorized to edit this comment"
 	return message
 
-def main:
+def main(self):
 	comment = "this is the new new_data"
 	current_user = user[0]
 	E[0].edit_comment(current_user, E[0], comment)
